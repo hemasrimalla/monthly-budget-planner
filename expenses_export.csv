@@ -1,0 +1,26 @@
+ID,Date,Amount,Category,Description
+1,2026-09-02,12000.00,Rent,Monthly apartment rental payment
+2,2026-09-04,1350.00,Bills,Broadband fiber wifi quarterly bill
+3,2026-09-07,1620.00,Food,Blinkit grocery pantry delivery
+4,2026-09-11,450.00,Transport,Monthly metro smart card reload
+5,2026-09-14,2499.00,Education,Udemy Python & Django Full-Stack Bootcamp
+6,2026-09-19,780.00,Entertainment,PVR movie tickets & popcorn
+7,2026-09-24,650.00,Health,Multivitamins and first-aid supplies
+8,2026-10-02,12000.00,Rent,Monthly apartment rental payment
+9,2026-10-05,1420.00,Bills,Electricity and maintenance bill
+10,2026-10-08,1850.00,Food,Weekly vegetable & grocery market
+11,2026-10-12,380.00,Transport,Uber cab to tech interview
+12,2026-10-16,2800.00,Shopping,Ergonomic wireless keyboard & mouse
+13,2026-10-20,720.00,Entertainment,Weekend bowling with college friends
+14,2026-10-23,1150.00,Health,Dental routine checkup & cleaning
+15,2026-10-26,1950.00,Food,Swiggy dinner order with project team
+16,2026-10-29,1999.00,Bills,Prepaid mobile annual data plan
+17,2026-11-01,12000.00,Rent,Monthly apartment rental payment
+18,2026-11-03,1650.00,Bills,Electricity and water utility bill
+19,2026-11-05,2480.00,Food,Monthly supermarket grocery restock
+20,2026-11-06,450.00,Transport,Auto rickshaw fare to railway station
+21,2026-11-07,4200.00,Shopping,Amazon Great Indian Festival - winter wear
+22,2026-11-08,980.00,Health,Prescription eye drops and medicines
+23,2026-11-09,3600.00,Education,AWS Cloud Practitioner certification exam voucher
+24,2026-11-10,2890.00,Food,Weekend restaurant lunch with family
+25,2026-11-11,1499.00,Other,GitHub Copilot annual developer subscription

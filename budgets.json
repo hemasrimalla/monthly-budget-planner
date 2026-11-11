@@ -1,0 +1,34 @@
+{
+  "2026-09": {
+    "total_budget": 26000.0,
+    "category_budgets": {
+      "Rent": 12000.0,
+      "Food": 4500.0,
+      "Education": 3500.0,
+      "Bills": 2500.0,
+      "Transport": 1000.0
+    }
+  },
+  "2026-10": {
+    "total_budget": 28000.0,
+    "category_budgets": {
+      "Rent": 12000.0,
+      "Food": 4000.0,
+      "Bills": 3000.0,
+      "Shopping": 3000.0,
+      "Health": 1500.0,
+      "Transport": 1000.0
+    }
+  },
+  "2026-11": {
+    "total_budget": 28000.0,
+    "category_budgets": {
+      "Rent": 12000.0,
+      "Food": 5500.0,
+      "Shopping": 3500.0,
+      "Education": 4000.0,
+      "Bills": 2000.0,
+      "Transport": 1000.0
+    }
+  }
+}

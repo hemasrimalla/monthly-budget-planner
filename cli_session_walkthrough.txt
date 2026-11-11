@@ -1,0 +1,211 @@
+=================================================================
+       PERSONAL EXPENSE & BUDGET TRACKER
+       Take control of your finances, one rupee at a time
+=================================================================
+
+Loaded 25 expenses and 3 monthly budget configurations.
+
+=============================================
+                 MAIN MENU
+=============================================
+  [1]  Add Expense
+  [2]  View All Expenses
+  [3]  Edit Expense
+  [4]  Delete Expense
+  [5]  Set Monthly Budget
+  [6]  Check Budget Status
+  [7]  Spending Summary
+  [8]  Search / Filter Expenses
+  [9]  Export to CSV
+  [10] Exit
+=============================================
+Select an option [1-10]: 2
+
+======================================================================
+                        ALL RECORDED EXPENSES                         
+======================================================================
++----+------------+------------+---------------+---------------------------------------------------+
+| ID |    Date    |     Amount | Category      | Description                                       |
++----+------------+------------+---------------+---------------------------------------------------+
+| 1  | 2026-09-02 | ₹12,000.00 | Rent          | Monthly apartment rental payment                  |
+| 2  | 2026-09-04 |  ₹1,350.00 | Bills         | Broadband fiber wifi quarterly bill               |
+| 3  | 2026-09-07 |  ₹1,620.00 | Food          | Blinkit grocery pantry delivery                   |
+| 4  | 2026-09-11 |    ₹450.00 | Transport     | Monthly metro smart card reload                   |
+| 5  | 2026-09-14 |  ₹2,499.00 | Education     | Udemy Python & Django Full-Stack Bootcamp         |
+| 6  | 2026-09-19 |    ₹780.00 | Entertainment | PVR movie tickets & popcorn                       |
+| 7  | 2026-09-24 |    ₹650.00 | Health        | Multivitamins and first-aid supplies              |
+| 8  | 2026-10-02 | ₹12,000.00 | Rent          | Monthly apartment rental payment                  |
+| 9  | 2026-10-05 |  ₹1,420.00 | Bills         | Electricity and maintenance bill                  |
+| 10 | 2026-10-08 |  ₹1,850.00 | Food          | Weekly vegetable & grocery market                 |
+| 11 | 2026-10-12 |    ₹380.00 | Transport     | Uber cab to tech interview                        |
+| 12 | 2026-10-16 |  ₹2,800.00 | Shopping      | Ergonomic wireless keyboard & mouse               |
+| 13 | 2026-10-20 |    ₹720.00 | Entertainment | Weekend bowling with college friends              |
+| 14 | 2026-10-23 |  ₹1,150.00 | Health        | Dental routine checkup & cleaning                 |
+| 15 | 2026-10-26 |  ₹1,950.00 | Food          | Swiggy dinner order with project team             |
+| 16 | 2026-10-29 |  ₹1,999.00 | Bills         | Prepaid mobile annual data plan                   |
+| 17 | 2026-11-01 | ₹12,000.00 | Rent          | Monthly apartment rental payment                  |
+| 18 | 2026-11-03 |  ₹1,650.00 | Bills         | Electricity and water utility bill                |
+| 19 | 2026-11-05 |  ₹2,480.00 | Food          | Monthly supermarket grocery restock               |
+| 20 | 2026-11-06 |    ₹450.00 | Transport     | Auto rickshaw fare to railway station             |
+| 21 | 2026-11-07 |  ₹4,200.00 | Shopping      | Amazon Great Indian Festival - winter wear        |
+| 22 | 2026-11-08 |    ₹980.00 | Health        | Prescription eye drops and medicines              |
+| 23 | 2026-11-09 |  ₹3,600.00 | Education     | AWS Cloud Practitioner certification exam voucher |
+| 24 | 2026-11-10 |  ₹2,890.00 | Food          | Weekend restaurant lunch with family              |
+| 25 | 2026-11-11 |  ₹1,499.00 | Other         | GitHub Copilot annual developer subscription      |
++----+------------+------------+---------------+---------------------------------------------------+
+ Total Records: 25 | Total Spending: ₹73,367.00
+
+
+=============================================
+                 MAIN MENU
+=============================================
+  [1]  Add Expense
+  [2]  View All Expenses
+  [3]  Edit Expense
+  [4]  Delete Expense
+  [5]  Set Monthly Budget
+  [6]  Check Budget Status
+  [7]  Spending Summary
+  [8]  Search / Filter Expenses
+  [9]  Export to CSV
+  [10] Exit
+=============================================
+Select an option [1-10]: 6
+Enter month to check budget (YYYY-MM) [default: 2026-11]: 2026-11
+
+=================================================================
+                        BUDGET STATUS FOR 2026-11                
+=================================================================
+
+Total Budget : ₹28,000.00
+Total Spent  : ₹29,749.00
+Remaining    : -₹1,749.00
+Utilization  : [████████████████████] 106.2%
+Status       : [!] ALERT: Budget EXCEEDED by ₹1,749.00 (6.2% over budget)!
+
+Category-wise Budget Breakdown:
++-----------+------------+------------+-----------+--------+---------------+
+| Category  |     Budget |      Spent | Remaining | Used % |     Status    |
++-----------+------------+------------+-----------+--------+---------------+
+| Bills     |  ₹2,000.00 |  ₹1,650.00 |   ₹350.00 |  82.5% |  [!] WARNING  |
+| Education |  ₹4,000.00 |  ₹3,600.00 |   ₹400.00 |  90.0% |  [!] WARNING  |
+| Food      |  ₹5,500.00 |  ₹5,370.00 |   ₹130.00 |  97.6% |  [!] WARNING  |
+| Health    |  No Budget |    ₹980.00 |         - |      - |   Untracked   |
+| Other     |  No Budget |  ₹1,499.00 |         - |      - |   Untracked   |
+| Rent      | ₹12,000.00 | ₹12,000.00 |     ₹0.00 | 100.0% |  [!] WARNING  |
+| Shopping  |  ₹3,500.00 |  ₹4,200.00 |  -₹700.00 | 120.0% |  [!] EXCEEDED |
+| Transport |  ₹1,000.00 |    ₹450.00 |   ₹550.00 |  45.0% | [OK] On Track |
++-----------+------------+------------+-----------+--------+---------------+
+
+
+=============================================
+                 MAIN MENU
+=============================================
+  [1]  Add Expense
+  [2]  View All Expenses
+  [3]  Edit Expense
+  [4]  Delete Expense
+  [5]  Set Monthly Budget
+  [6]  Check Budget Status
+  [7]  Spending Summary
+  [8]  Search / Filter Expenses
+  [9]  Export to CSV
+  [10] Exit
+=============================================
+Select an option [1-10]: 7
+
+=================================================================
+                     MONTHLY SPENDING REPORT: 2026-11            
+=================================================================
+
+  • Total Monthly Spending: ₹29,749.00
+  • Total Transactions    : 9
+  • Average per Expense   : ₹3,305.44
+  • Average Daily Spend   : ₹2,704.45 (based on 11 days elapsed in current month)
+  • Top Spending Category : Rent (₹12,000.00 - 40.3%)
+  • Lowest Category       : Transport (₹450.00 - 1.5%)
+  • Largest Single Expense: ₹12,000.00 (Monthly apartment rental payment on 2026-11-01)
+
+--- Category-wise Breakdown ---
++-----------+-------------+------------+-------+------------------+
+| Category  | Total Spent | % of Month | Count | Distribution     |
++-----------+-------------+------------+-------+------------------+
+| Rent      |  ₹12,000.00 |      40.3% |   1   | ██████░░░░░░░░░░ |
+| Food      |   ₹5,370.00 |      18.1% |   2   | ███░░░░░░░░░░░░░ |
+| Shopping  |   ₹4,200.00 |      14.1% |   1   | ██░░░░░░░░░░░░░░ |
+| Education |   ₹3,600.00 |      12.1% |   1   | ██░░░░░░░░░░░░░░ |
+| Bills     |   ₹1,650.00 |       5.5% |   1   | █░░░░░░░░░░░░░░░ |
+| Other     |   ₹1,499.00 |       5.0% |   1   | █░░░░░░░░░░░░░░░ |
+| Health    |     ₹980.00 |       3.3% |   1   | █░░░░░░░░░░░░░░░ |
+| Transport |     ₹450.00 |       1.5% |   1   | ░░░░░░░░░░░░░░░░ |
++-----------+-------------+------------+-------+------------------+
+
+
+=============================================
+                 MAIN MENU
+=============================================
+  [1]  Add Expense
+  [2]  View All Expenses
+  [3]  Edit Expense
+  [4]  Delete Expense
+  [5]  Set Monthly Budget
+  [6]  Check Budget Status
+  [7]  Spending Summary
+  [8]  Search / Filter Expenses
+  [9]  Export to CSV
+  [10] Exit
+=============================================
+Select an option [1-10]: 8
+Choose search/filter option: [1] Search Description by Keyword
+Enter search keyword: Bootcamp
+
+======================================================================
+                     SEARCH RESULTS FOR: BOOTCAMP                     
+======================================================================
++----+------------+-----------+-----------+-------------------------------------------+
+| ID |    Date    |    Amount | Category  | Description                               |
++----+------------+-----------+-----------+-------------------------------------------+
+| 5  | 2026-09-14 | ₹2,499.00 | Education | Udemy Python & Django Full-Stack Bootcamp |
++----+------------+-----------+-----------+-------------------------------------------+
+ Total Records: 1 | Total Spending: ₹2,499.00
+
+
+=============================================
+                 MAIN MENU
+=============================================
+  [1]  Add Expense
+  [2]  View All Expenses
+  [3]  Edit Expense
+  [4]  Delete Expense
+  [5]  Set Monthly Budget
+  [6]  Check Budget Status
+  [7]  Spending Summary
+  [8]  Search / Filter Expenses
+  [9]  Export to CSV
+  [10] Exit
+=============================================
+Select an option [1-10]: 9
+Enter destination filename or path [default: data/expenses_export.csv]: 
+
+[OK] Successfully exported 25 expenses to:
+     C:\Users\HEMA\.gemini\antigravity\scratch\expense-budget-tracker\data\expenses_export.csv
+
+=============================================
+                 MAIN MENU
+=============================================
+  [1]  Add Expense
+  [2]  View All Expenses
+  [3]  Edit Expense
+  [4]  Delete Expense
+  [5]  Set Monthly Budget
+  [6]  Check Budget Status
+  [7]  Spending Summary
+  [8]  Search / Filter Expenses
+  [9]  Export to CSV
+  [10] Exit
+=============================================
+Select an option [1-10]: 10
+Are you sure you want to exit? [y/N]: y
+
+Thank you for using Personal Expense & Budget Tracker. Goodbye!
+

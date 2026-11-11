@@ -1,0 +1,177 @@
+[
+  {
+    "id": 1,
+    "date": "2026-09-02",
+    "amount": 12000.0,
+    "category": "Rent",
+    "description": "Monthly apartment rental payment"
+  },
+  {
+    "id": 2,
+    "date": "2026-09-04",
+    "amount": 1350.0,
+    "category": "Bills",
+    "description": "Broadband fiber wifi quarterly bill"
+  },
+  {
+    "id": 3,
+    "date": "2026-09-07",
+    "amount": 1620.0,
+    "category": "Food",
+    "description": "Blinkit grocery pantry delivery"
+  },
+  {
+    "id": 4,
+    "date": "2026-09-11",
+    "amount": 450.0,
+    "category": "Transport",
+    "description": "Monthly metro smart card reload"
+  },
+  {
+    "id": 5,
+    "date": "2026-09-14",
+    "amount": 2499.0,
+    "category": "Education",
+    "description": "Udemy Python & Django Full-Stack Bootcamp"
+  },
+  {
+    "id": 6,
+    "date": "2026-09-19",
+    "amount": 780.0,
+    "category": "Entertainment",
+    "description": "PVR movie tickets & popcorn"
+  },
+  {
+    "id": 7,
+    "date": "2026-09-24",
+    "amount": 650.0,
+    "category": "Health",
+    "description": "Multivitamins and first-aid supplies"
+  },
+  {
+    "id": 8,
+    "date": "2026-10-02",
+    "amount": 12000.0,
+    "category": "Rent",
+    "description": "Monthly apartment rental payment"
+  },
+  {
+    "id": 9,
+    "date": "2026-10-05",
+    "amount": 1420.0,
+    "category": "Bills",
+    "description": "Electricity and maintenance bill"
+  },
+  {
+    "id": 10,
+    "date": "2026-10-08",
+    "amount": 1850.0,
+    "category": "Food",
+    "description": "Weekly vegetable & grocery market"
+  },
+  {
+    "id": 11,
+    "date": "2026-10-12",
+    "amount": 380.0,
+    "category": "Transport",
+    "description": "Uber cab to tech interview"
+  },
+  {
+    "id": 12,
+    "date": "2026-10-16",
+    "amount": 2800.0,
+    "category": "Shopping",
+    "description": "Ergonomic wireless keyboard & mouse"
+  },
+  {
+    "id": 13,
+    "date": "2026-10-20",
+    "amount": 720.0,
+    "category": "Entertainment",
+    "description": "Weekend bowling with college friends"
+  },
+  {
+    "id": 14,
+    "date": "2026-10-23",
+    "amount": 1150.0,
+    "category": "Health",
+    "description": "Dental routine checkup & cleaning"
+  },
+  {
+    "id": 15,
+    "date": "2026-10-26",
+    "amount": 1950.0,
+    "category": "Food",
+    "description": "Swiggy dinner order with project team"
+  },
+  {
+    "id": 16,
+    "date": "2026-10-29",
+    "amount": 1999.0,
+    "category": "Bills",
+    "description": "Prepaid mobile annual data plan"
+  },
+  {
+    "id": 17,
+    "date": "2026-11-01",
+    "amount": 12000.0,
+    "category": "Rent",
+    "description": "Monthly apartment rental payment"
+  },
+  {
+    "id": 18,
+    "date": "2026-11-03",
+    "amount": 1650.0,
+    "category": "Bills",
+    "description": "Electricity and water utility bill"
+  },
+  {
+    "id": 19,
+    "date": "2026-11-05",
+    "amount": 2480.0,
+    "category": "Food",
+    "description": "Monthly supermarket grocery restock"
+  },
+  {
+    "id": 20,
+    "date": "2026-11-06",
+    "amount": 450.0,
+    "category": "Transport",
+    "description": "Auto rickshaw fare to railway station"
+  },
+  {
+    "id": 21,
+    "date": "2026-11-07",
+    "amount": 4200.0,
+    "category": "Shopping",
+    "description": "Amazon Great Indian Festival - winter wear"
+  },
+  {
+    "id": 22,
+    "date": "2026-11-08",
+    "amount": 980.0,
+    "category": "Health",
+    "description": "Prescription eye drops and medicines"
+  },
+  {
+    "id": 23,
+    "date": "2026-11-09",
+    "amount": 3600.0,
+    "category": "Education",
+    "description": "AWS Cloud Practitioner certification exam voucher"
+  },
+  {
+    "id": 24,
+    "date": "2026-11-10",
+    "amount": 2890.0,
+    "category": "Food",
+    "description": "Weekend restaurant lunch with family"
+  },
+  {
+    "id": 25,
+    "date": "2026-11-11",
+    "amount": 1499.0,
+    "category": "Other",
+    "description": "GitHub Copilot annual developer subscription"
+  }
+]
